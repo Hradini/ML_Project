@@ -1,5 +1,6 @@
 /*
  * Macro that generates cropped images (512x512) from (2048x2048) and (1024x1024) images
+ * Runs on Fiji 2.1.0, ImageJ 1.53c
  * 
  * Choose input directory with images (.tif files) that need to be cropped.
  * Choose output directory where cropped images (.tif files) will be saved.
