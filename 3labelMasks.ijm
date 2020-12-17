@@ -1,5 +1,6 @@
 /*
  * Macro that generates segmentation masks based on rois and original image.
+ * Runs on Fiji 2.1.0, ImageJ 1.53c
  * 
  * Choose folder that has original images (.tif files).
  * Choose folder that has RoiSets (.zip files).
