@@ -1,5 +1,6 @@
 /*
- * Macro that coverts .lif files into individual .tif files
+ * Macro that coverts .lif files into individual .tif files.
+ * Runs on Fiji 2.1.0, ImageJ 1.53c
  * Choose input folder with .lif files
  * Choose output folder for .tif files
  * Here the filename takes up the input foldername as well
